@@ -15,7 +15,7 @@ lung cancer in their early phase.
 
 # Introduction
 
-**Project Summary:** [Overview](/Project-Details/Introduction/intro.md)
+**Project Summary:** [Overview](/Project Overview/overview.md)
 
 A brief overview of the project
 
