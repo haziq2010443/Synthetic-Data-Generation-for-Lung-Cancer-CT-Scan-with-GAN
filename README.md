@@ -12,3 +12,7 @@ improved training of AI models for accurate lung cancer diagnosis. The potential
 of this project lies in its ability to augment existing datasets, mitigate data biases, and
 boost the performance of computer-aided diagnosis systems in detecting diseases like
 lung cancer in their early phase.
+
+# Introduction
+
+**Project Background:** [Project_Background](/Project-Details/Introduction/intro.md) 
