@@ -45,9 +45,9 @@ possible.
 
 ## Objectives :
 
-*To train a Deep Convolutional Generative Adversarial Network(DCGAN) that can generate synthetic lung CT scans that are statistically similar to real-world data and diverse.
-*To design a tool that can generate synthetic lung CT scans for lung cancer disease using DCGANs.
-*To develop a tool that can reproduce Lung CT scan images that mimic the statistical pattern and properties of lung cancer data.
+* To train a Deep Convolutional Generative Adversarial Network(DCGAN) that can generate synthetic lung CT scans that are statistically similar to real-world data and diverse.
+* To design a tool that can generate synthetic lung CT scans for lung cancer disease using DCGANs.
+* To develop a tool that can reproduce Lung CT scan images that mimic the statistical pattern and properties of lung cancer data.
 
 ## Project Significance : <br>
 
@@ -61,9 +61,9 @@ for lung detection.
 This project proposes a solution to use DCGANs to generate realistic and diverse
 synthetic lung cancer CT scans. This synthetic data can be used to:
 
-*Augment existing datasets
-*Reduce costs and improve access to diagnosis
-*Develop and test new AI algorithms
+* Augment existing datasets
+* Reduce costs and improve access to diagnosis
+* Develop and test new AI algorithms
 
 ## Conclusion : <br>
 
