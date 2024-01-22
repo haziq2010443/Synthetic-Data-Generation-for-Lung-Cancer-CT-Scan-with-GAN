@@ -22,7 +22,9 @@ A brief overview of the project
 # Sample Generated Image
 
 at 400 Epoch
-<img src="Epoch 400.png" width="100%">
+
+<img src="/assets/Epoch 400.png" width="100%">
 
 at 2000 Epoch
-<img src="Epoch 2000.png" width="100%">
+
+<img src="/assets/Epoch 2000.png" width="100%">
