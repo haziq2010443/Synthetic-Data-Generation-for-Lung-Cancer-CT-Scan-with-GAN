@@ -21,10 +21,10 @@ A brief overview of the project
 
 # Sample Generated Image
 
-at 400 Epoch
+**At 400 Epoch**
 
 <img src="/assets/Epoch 400.png" width="100%">
 
-at 2000 Epoch
+**At 2000 Epoch**
 
 <img src="/assets/Epoch 2000.png" width="100%">
